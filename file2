@@ -1,0 +1,741 @@
+    1  ls
+    2  nano ~/.zshrc
+    3  exit
+    4  cd storage/shared/sites
+    5  ls
+    6  cd darkplaces
+    7  cd ..
+    8  ls
+    9  cd myapp
+   10  cd ..
+   11  rm -r myapp
+   12  rvm install "ruby-2.7.1"
+   13  apt-get update
+   14  rvm 
+   15  rvm list
+   16  rvm
+   17  rvm list known
+   18  rvm install "ruby-2.7.2"
+   19  cd /data/data/com.termux/files/home/.rvm/log/1659807580_ruby-2.7.2/
+   20  ls
+   21  nano package_install_bash_curl_patch_bzip2_ca-certificates_gawk_clang_coreutils_curl_gawk_git_gnupg_gpgv_libc++_libclang_libclang-dev_libllvm_libxml2_make_ncurses_ncurses-ui-libs_openssl_open.log
+   22  cd ..
+   23  ls
+   24  cd ..
+   25  ls
+   26  find source
+   27  find -r source
+   28  find
+   29  find --help
+   30  find "source*"
+   31  find -P "source*"
+   32  cd ~
+   33  ls
+   34  cd storage/shared/sites
+   35  ls
+   36  cd EC2\ AWS
+   37  ls
+   38  ec2-18-237-161-32.us-west-2.compute.amazonaws.com
+   39  ssh -i "id_rsa" root@ec2-18-237-161-32.us-west-2.compute.amazonaws.com
+   40  ssh -i "MaloneEC2" root@ec2-18-237-161-32.us-west-2.compute.amazonaws.com
+   41  ssh -i "MaloneEC2.pem" root@ec2-18-237-161-32.us-west-2.compute.amazonaws.com
+   42  chmod 400 MaloneEC2.pem
+   43  ls -l
+   44  chmod -w MaloneEC2.pem
+   45  ls -l
+   46  chmod -w+r MaloneEC2.pem
+   47  chmod -rw+r MaloneEC2.pem
+   48  ls -l
+   49  cp MaloneEC2.pem ~/
+   50  cd 
+   51  ls
+   52  chmod 400 MaloneEC2.pem
+   53  ls -l
+   54  ssh -i "MaloneEC2.pem" root@ec2-18-237-161-32.us-west-2.compute.amazonaws.com
+   55  ls
+   56  tree -l 2
+   57  tree -l3
+   58  tree -L 3
+   59  ping 10.0.0.11
+   60  ping 10.0.0.9
+   61  pwd
+   62  ls
+   63  cd ..
+   64  ls
+   65  cd usr
+   66  ls
+   67  rbenv
+   68  cd ~
+   69  ls
+   70  cd storage/shared/sites
+   71  ls
+   72  nano August520220756.txt
+   73  cd darkplaces
+   74  ls
+   75  nano README.
+   76  nano README.md
+   77  ./darkplaces64x64.png
+   78  exit
+   79  cd /data/data/com.termux/files/home/.rvm/log/1659807580_ruby-2.7.2/
+   80  ls
+   81  nano package_install_bash_curl_patch_bzip2_ca-certificates_gawk_clang_coreutils_curl_gawk_git_gnupg_gpgv_libc++_libclang_libclang-dev_libllvm_libxml2_make_ncurses_ncurses-ui-libs_openssl_open.log
+   82  cd ~
+   83  rvm install "ruby-2.7.2"
+   84  cd /data/data/com.termux/files/home/.rvm/log/1659807580_ruby-2.7.2/
+   85  nano package_install_bash_curl_patch_bzip2_ca-certificates_gawk_clang_coreutils_curl_gawk_git_gnupg_gpgv_libc++_libclang_libclang-dev_libllvm_libxml2_make_ncurses_ncurses-ui-libs_openssl_open.log
+   86  cd ..
+   87  ls
+   88  cd ..
+   89  ls
+   90  find requirementa
+   91  find -d requirementa
+   92  find -l requirements
+   93  find -a requirements
+   94  find -help
+   95  find -L require*
+   96  find -L "require*"
+   97  os
+   98  ls
+   99  cd config
+  100  ls
+  101  cd ..
+  102  cd environments
+  103  ls
+  104  cd ..
+  105  cd bin
+  106  ls
+  107  cd ..
+  108  find -type f ./ "requirements_termux_libs_install"
+  109  find -type f ~/.rvm "requirements_termux_libs_install"
+  110  find ~/.rvm -type f "requirements_termux_libs_install"
+  111  find ~/.rvm -type f -name "requirements_termux_libs_install"
+  112  ls
+  113  tree
+  114  find ~/.rvm -type f -name "requirements_termux_libs_install*"
+  115  tree -l 3
+  116  tree -help
+  117  tree -L 3
+  118  cd scripts/functions
+  119  tree -L 3
+  120  cd requirements
+  121  ls
+  122  tree
+  123  cd ..
+  124  ls
+  125  nano build_requirements
+  126  grep "requirements_termux_libs_install"
+  127  grep ./ "requirements_termux_libs_install"
+  128  grep "requirements*"
+  129  grep / "requirements*"
+  130  cd ..
+  131  ls
+  132  grep ./functions "require*"
+  133  cls
+  134  clear
+  135  rvm install "ruby-2.7.2"
+  136  ruby -v
+  137  rvm -v
+  138  apt install libclang
+  139  apt install libllvm
+  140  rvm install "ruby-2.7.2"
+  141  cd ..
+  142  cd ./log/1660768084_ruby-2.7.2
+  143  ls
+  144  nano package_install_bash_curl_patch_bzip2_ca-certificates_gawk_clang_coreutils_curl_gawk_git_gnupg_gpgv_libc++_libclang_libclang-dev_libllvm_libxml2_make_ncurses_ncurses-ui-libs_openssl_open.log
+  145  apt install zlib
+  146  nano package_install_bash_curl_patch_bzip2_ca-certificates_gawk_clang_coreutils_curl_gawk_git_gnupg_gpgv_libc++_libclang_libclang-dev_libllvm_libxml2_make_ncurses_ncurses-ui-libs_openssl_open.log
+  147  cd ..
+  148  ls
+  149  cd environments
+  150  ls
+  151  cd ..
+  152  tree -L 2
+  153  cd ./bin
+  154  ls
+  155  cd ..
+  156  ls
+  157  nano README.md
+  158  ruby use 'system'
+  159  ruby use system
+  160  nano README.md
+  161  ruby system
+  162  nano README.md
+  163  rvm get master
+  164  rvm -v
+  165  ls
+  166  tree -L 4
+  167  cd scripts
+  168  ls
+  169  cd functions
+  170  LS
+  171  ls
+  172  nano ~/.rvm/log/1660768084_ruby-2.7.2/package_install_bash_curl_patch_bzip2_ca-certificates_gawk_clang_coreutils_curl_gawk_git_gnupg_gpgv_libc++_libclang_libclang-dev_libllvm_libxml2_make_ncurses_ncurses-ui-libs_openssl_open.log
+  173  ls
+  174  cd requirements
+  175  ls
+  176  nano termux
+  177  rvm install "ruby-2.7.2"
+  178  rvm install "ruby-2.7.2" --verbose
+  179  cd ~
+  180  ls
+  181  cp storage/shared/Download/Malone_EC2_01.pem ~/
+  182  ls
+  183  chmod 400 Malone_EC2_01.pem
+  184  ls -l
+  185  nano Malone_EC2_01.pem
+  186  python
+  187  pkg install python
+  188  pip install spleeter
+  189  pip -v
+  190  pkg install ffmpeg
+  191  pkg install libsndfile
+  192  pip install spleeter
+  193  pip install --upgrade pip
+  194  pip install spleeter
+  195  pip install tensorflow
+  196  pip3
+  197  pip3 install tensorflow
+  198  bazel
+  199  git
+  200  ls
+  201  python -v
+  202  python --version
+  203  pkg install python -version 3.9
+  204  uname -m
+  205  wget https://github.com/Termux-pod/termux-pod/tree/main/aarch64%2Fpython%2Fpython-3.9.7/python_3.9.7.aarch64.deb
+  206  wget https://github.com/Termux-pod/termux-pod/tree/main/aarch64/python/python-3.9.7/python_3.9.7.aarch64.deb
+  207  wget https://github.com/Termux-pod/termux-pod/blob/main/aarch64/python/python-3.9.7/python_3.9.7_aarch64.deb
+  208  pkg uninstall python
+  209  dpkg -i ./python_3.9.7_aarch64.deb
+  210  ls
+  211  wget https://github.com/Termux-pod/termux-pod/blob/main/aarch64/python/python-3.9.7/python-static_3.9.7_aarch64.deb
+  212  dpkg -i ./python-static_3.9.7_aarch64.deb
+  213  dpkg -i ~/python-static_3.9.7_aarch64.deb
+  214  dpkg --install ~/python-static_3.9.7_aarch64.deb
+  215  ls
+  216  cp storage/shared/Download/python_3.9.7_aarch64.deb ~/
+  217  ls
+  218  rm python-static_3.9.7_aarch64.deb
+  219  rm python_3.9.7_aarch64.deb
+  220  ls
+  221  cp storage/shared/Download/python_3.9.7_aarch64.deb ~/
+  222  ls
+  223  ls -l
+  224  dpkgb-i ./python_3.9.7_aarch64.deb
+  225  dpkg -i ./python_3.9.7_aarch64.deb
+  226  pip install spleeter
+  227  pip install --upgrade pip
+  228  python3 -m pip install --upgrade pip
+  229  pip upgrade
+  230  pip install gensim config --global http.sslVerify false\nJust install any package with the "config --global http.sslVerify false" statement\n\nYou can ignore SSL errors by setting pypi.org and files.pythonhosted.org as well as the older pypi.python.org as trusted hosts.\n\n$ pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org <package_name>
+  231  pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org <package_name>
+  232  pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --upgrade pip
+  233  pkg uninstall python
+  234  wget -P ~/python-source-files https://www.python.org/ftp/python/3.9.7/Python-3.9.7.tgz
+  235  tar xvzf ./python-source-files/Python-3.9.7.tgz
+  236  ls
+  237  cd Python-
+  238  cd Python-3.9.7
+  239  ls
+  240  ./configure --enable-optimizations
+  241  make altinstall
+  242  madison
+  243  apt-cache
+  244  apt-cache madison python
+  245  apt-cache madison py
+  246  apt-cache madison
+  247  apt-cache madison --hel
+  248  apt-cache madison --help
+  249  apt-cache search spleeter
+  250  apt-cache search python
+  251  cd ..
+  252  ls
+  253  pkg uninstall Python
+  254  pkg install python
+  255  python3 -m pip install --upgrade pip
+  256  ls
+  257  cd storage
+  258  ls
+  259  cd shared
+  260  ls
+  261  cd Quake
+  262  ls
+  263  cd id1
+  264  ls
+  265  cd ..
+  266  exit
+  267  ls
+  268  termux-storage
+  269  termux-setup-storage
+  270  cd storage
+  271  ls
+  272  tree -L 2
+  273  tree -L 3
+  274  tree
+  275  cd shared
+  276  ls
+  277  cd sites
+  278  ls
+  279  cd ..
+  280  cd Download
+  281  ls
+  282  cp quakedroid_gl_source_20180508.rar ~/storage/shared/sites
+  283  cd ..
+  284  cd sites
+  285  ls
+  286  tar xzvf quakedroid_gl_source_20180508.rar
+  287  unzip quakedroid_gl_source_20180508.rar
+  288  unrar
+  289  pkg install unrar
+  290  unrar 
+  291  unrar x quakedroid_gl_source_20180508.rar
+  292  ls
+  293  mkdir quakedroid
+  294  cp quakedroid_gl_source_20180508.rar ./quakedroid
+  295  ce quakedroid
+  296  cd quakedroid
+  297  ls
+  298  unrar x quakedroid_gl_source_20180508.rar
+  299  git init
+  300  git commit
+  301  git add --all
+  302  git config --global --add safe.directory /storage/emulated/0/sites/quakedroid
+  303  git add --all
+  304  git commit -m "Initial Commit"
+  305  git config --global user.email "stayun@gmail.com"
+  306  git config --global user.name "Tundratrot"
+  307  git commit -m "Initial"
+  308  rm quakedroid_gl_source_20180508.rar
+  309  ls
+  310  git commit -m "Initial"
+  311  git rm quakedroid_gl_source_20180508.rar
+  312  git commit -m "Initial"
+  313  git push origin master
+  314  git status
+  315  git add .
+  316  git status
+  317  git push origin main
+  318  git remote add https://github.com/Tundratrot/QuakeDroid.git
+  319  git remote add main https://github.com/Tundratrot/QuakeDroid.git
+  320  git push origin main
+  321  git remote add -m main https://github.com/Tundratrot/QuakeDroid.git
+  322  ls
+  323  git status
+  324  git push
+  325  git push --set-upstream main master
+  326  git config -l
+  327  cd ..
+  328  git clone https://github.com/Tundratrot/Twinspregnancy.git
+  329  cd quakedroid
+  330  git push --set-upstream main master
+  331  ssh-keygen -t ed25519 -C "stayun@gmail.com"
+  332  eval "$(ssh-agent -s)"
+  333  ssh-add ~/.ssh/id_ed25519
+  334  ~/.ssh/id_ed25519 -l
+  335  cat ~/.ssh/id_ed25519
+  336  cat ~/.ssh/id_ed25519.pub
+  337  git remote add -m main git@github.com:Tundratrot/QuakeDroid.git
+  338  git push --set-upstream main master
+  339  git remote add main git@github.com:Tundratrot/QuakeDroid.git
+  340  git push remote main
+  341  git commit -m "Initial commit"
+  342  git push remote main
+  343  git push origin main
+  344  git add .
+  345  ls
+  346  git push main
+  347  git push --set-upstream main master
+  348  git config --global credential.helper cache
+  349  git push --set-upstream main master
+  350  git remote add origin git@github.com:Tundratrot/QuakeDroid.git
+  351  git remote set-url git@github.com:Tundratrot/QuakeDroid.git
+  352  git remote set-url
+  353  git remote set-url --delete https://github.com/Tundratrot/QuakeDroid.git
+  354  git remote set-url --delete origin https://github.com/Tundratrot/QuakeDroid.git
+  355  git remote set-url --delete main https://github.com/Tundratrot/QuakeDroid.git
+  356  git remote set-url --add git@github.com:Tundratrot/QuakeDroid.git
+  357  git remote set-url --add main git@github.com:Tundratrot/QuakeDroid.git
+  358  git push main master
+  359  cd ..
+  360  rm -r quakedroid/
+  361  mkdir QuakeDroid
+  362  cp quakedroid_gl_source_20180508.rar QuakeDroid/
+  363  cr QuakeDroid
+  364  cd QuakeDroid
+  365  unrar x quakedroid_gl_source_20180508.rar
+  366  rm quakedroid_gl_source_20180508.rar
+  367  git init
+  368  git config --global init.defaultBranch main
+  369  git init
+  370  git add .
+  371  git config --global --add safe.directory /storage/emulated/0/sites/QuakeDroid
+  372  git add .
+  373  git remote add origin git@github.com:Tundratrot/QuakeDroid
+  374  git push --set-upstream origin main
+  375  git push --set-upstream origin master
+  376  cd ..
+  377  rm -r QuakeDroid
+  378  git clone git@github.com:Tundratrot/QuakeDroid
+  379  cd QuakeDroid
+  380  cp ../quakedroid_gl_source_20180508.rar ./
+  381  ls
+  382  unrar x quakedroid_gl_source_20180508.rar
+  383  rm quakedroid_gl_source_20180508.rar
+  384  ls
+  385  nano README.md
+  386  git add .
+  387  git status
+  388  git push origin main
+  389  git commit -m "Initial Commit"
+  390  git push origin main
+  391  cd storage/shared/sites
+  392  ls
+  393  cd storage/shared/sites
+  394  ls
+  395  cd Quake
+  396  ls
+  397  cd ..
+  398  cp Quake Quake-1
+  399  cp -r Quake Quake-1
+  400  ls
+  401  rm -r Quake
+  402  ls
+  403  cd ~
+  404  ls
+  405  cd .ssh
+  406  ls
+  407  cd ..
+  408  cp -r .ssh storage/shared/.ssh
+  409  cd storage/shared/.ssh
+  410  ls
+  411  cd ..
+  412  ls
+  413  ls --help
+  414  ls -a
+  415  mkdir proj
+  416  ls
+  417  cd proj
+  418  git clone git@github.com:id-Software/Quake
+  419  cd Quake
+  420  ls
+  421  cd..
+  422  cd ~
+  423  cd storage/shared/AppProjects
+  424  cp -r ../.ssh ./.ssh
+  425  ls
+  426  ls -a
+  427  ls
+  428  cd ..
+  429  cp -r proj/Quake sites/Quake
+  430  cd proj
+  431  cd Quake
+  432  git
+  433  git init
+  434  ls
+  435  cd ..
+  436  rm -r Quake
+  437  git clone git@github.com:id-Software/Quake
+  438  cd Quake
+  439  ls
+  440  ls -a
+  441  cd .git
+  442  ls
+  443  nano HEAD
+  444  cd ..
+  445  git init
+  446  git remote add origin git@github.com:Crash-m/Quake
+  447  git config --global --add safe.directory /storage/emulated/0/proj/Quake
+  448  git remote add origin git@github.com:Crash-m/Quake
+  449  git add .
+  450  git status
+  451  git remote -v
+  452  cd ..
+  453  rm -r Quake
+  454  git clone git@github.com/Crash-m/Quake
+  455  git clone git@github.com:Crash-m/Quake
+  456  git clone git@github.com:Crash-m/Quake-Crash
+  457  git clone git@github.com:Crash-m/Quake-rerelease-Crash
+  458  ls
+  459  cd Quake-rerelease-Crash
+  460  ls
+  461  nano README.md
+  462  cd ..
+  463  git svn
+  464  git-svn
+  465  pkg search subversion-perl
+  466  pkg search git-svn
+  467  git-svn -v
+  468  history
+  469  git svn clone https://svn.code.sf.net/p/fteqw/code/trunk
+  470  pkg uninstall git-svn
+  471  pkg install git-svn
+  472  git-svn -v
+  473  git svn
+  474  svn
+  475  svn help
+  476  svn checkout https://svn.code.sf.net/p/fteqw/code/trunk fteqw-code
+  477  ls
+  478  cd fteqw-code
+  479  ls
+  480  nano README.txt
+  481  configure
+  482  ls -l
+  483  nano ftetools_readme.txt
+  484  make droid-rel
+  485  nano CMakeLists.txt
+  486  grep -l droid
+  487  grep --help
+  488  grep -l "droid*"
+  489  tree
+  490  cd ..
+  491  ls
+  492  cd ..
+  493  ls
+  494  cd sites
+  495  ls
+  496  cd Quake-1
+  497  ls
+  498  cd id1
+  499  ls
+  500  cp PAK1.PAK ~/storage/shared/Android/data/com.fteqw/files
+  501  ls
+  502  cd ..
+  503  ls
+  504  cd Samsung
+  505  ls
+  506  cd Music
+  507  ls
+  508  cs 
+  509  ce ..
+  510  cd ..
+  511  ls
+  512  cd ..
+  513  termux-setup-storage
+  514  cd ..
+  515  ls
+  516  cd ~
+  517  cd storage
+  518  ls
+  519  cd shared
+  520  ls
+  521  find "USB"
+  522  find / "USB"
+  523  find ./ "USB"
+  524  find ./ *USB¢
+  525  find ./ samsung
+  526  find --help
+  527  find -n "Samsung"
+  528  find -N "Samsung"
+  529  tree -P | grep -i samsung
+  530  find -print | grep -i samsung
+  531  find -print | grep -i usb
+  532  cd archives
+  533  ls
+  534  cd ..
+  535  ls
+  536  cd ..
+  537  tree -P
+  538  tree -P "*usb"
+  539  ftp archives.gamers.org
+  540  ftp ftp.fu-berlin.de/pc/games/idgames2/
+  541  ls
+  542  nano README
+  543  ftp ftp.fu-berlin.de
+  544  curl ftp://ftp.fu-berlin.de/pc/games/idgames2/partial_conversions\* --user anonymous:stayun@gmail.com -o /partial_conversions/*
+  545  curl ftp://ftp.fu-berlin.de/pc/games/idgames2/partial_conversions/* --user anonymous:stayun@gmail.com -o /partial_conversions/*
+  546  curl ftp://ftp.fu-berlin.de/pc/games/idgames2/* --user anonymous:stayun@gmail.com -o /test/*
+  547  ftp ftp.fu-berlin.de
+  548  ftp ftp.gamers.org
+  549  ftp anonymous:pass@ftp.gamers.org
+  550  ftp ftp.fu-berlin.de
+  551  unzip --help
+  552  unzip storage/shared/archives/ftp.fu-berlin.de/pc/games/idgames2/levels/team_fortress/0-9/4towers.zip -d storage/shared/Quake/id1/maps
+  553  binhex
+  554  dd --help
+  555  cd storage/shared/archives/ftp.fu-berlin.de/pc/games/idgames2/levels/team_fortress/
+  556  ls
+  557  cd 0-9
+  558  s
+  559  ls
+  560  dd -help
+  561  dd --help
+  562  dd if=5v5.zip of=5v5c.zip conv=ebcdic
+  563  unzip 5v5c.zip
+  564  ls
+  565  unzip 5v5.zip
+  566  unzip 5v5c.zip
+  567  dd if=5v5.zip of=5v5i.zip conv=IBM
+  568  dd if=5v5.zip of=5v5i.zip conv=ibm
+  569  unzip 5v5i.zip
+  570  dd if=5v5.zip
+  571  dd if=5v5.zip conv=ibm
+  572  dd --help
+  573  dd if=5v5.zip count=1 | hexdump -C
+  574  dd if=5v5.zip count=1 conv=ebcdic | hexdump -C
+  575  hex
+  576  hexdump --help
+  577  dd if=5v5.zip count=1 conv=ebcdic | hexdump -c
+  578  dd if=5v5i.zip count=1 conv=ebcdic | hexdump -c
+  579  dd if=5v5.zip count=1 conv=ebcdic | hexdump -c
+  580  dd if=5v5c.zip count=1 conv=ebcdic | hexdump -c
+  581  dd ?
+  582  dd conv --help
+  583  cd ..
+  584  cd proj
+  585  cd fteqcc
+  586  ls
+  587  tar -xvzf fteqw-src.tgz
+  588  ls
+  589  cd fteqw-code
+  590  ls
+  591  telnet
+  592  cd..
+  593  cd ..
+  594  ls
+  595  mkdir joysticks
+  596  cd joysticks
+  597  ls
+  598  wget -m https://shawnhymel.github.io/phaser-plugin-virtual-gamepad/
+  599  ls
+  600  cd shawnhymel.github.io
+  601  ls
+  602  cd phaser-plugin-virtual-gamepad
+  603  ls
+  604  pkg install ecj
+  605  jvm
+  606  javac
+  607  ls
+  608  cd js
+  609  ls
+  610  cs ..
+  611  cd ..
+  612  cd Haser
+  613  ls
+  614  cd gdx-game-android
+  615  ls
+  616  cd src
+  617  ls
+  618  cd com
+  619  ls
+  620  cd joy
+  621  ls
+  622  cd phaser
+  623  ls
+  624  javac MainActivity.java
+  625  ccd2iso
+  626  pkg searchall cdr
+  627  cd ~
+  628  ld
+  629  ls
+  630  rm MaloneEC2.pem
+  631  rm Malone_EC2_01.pem
+  632  cd storage/shared
+  633  ls
+  634  cd Download
+  635  find cdr
+  636  ls
+  637  dd if=./CDROM_March92.cdr of=./CDROM_March92.iso bs=2048 conv=notrunc
+  638  ls
+  639  history | cat
+  640  history | grep "wget"
+  641  exit
+  642  pkg searchall inno
+  643  pkg install innoextract
+  644  innoextract
+  645  innoextract setup_the_ultimate_doom_1.9_\(28044\).exe ../doom-1
+  646  ls
+  647  pwd
+  648  mkdir doom
+  649  innoextract setup_the_ultimate_doom_1.9_\(28044\).exe ./doom
+  650  ls
+  651  innoextract --help
+  652  innoextract -d ./doom  setup_the_ultimate_doom_1.9_\(28044\).exe
+  653  ls
+  654  rm DM.CFG
+  655  rm DM.DOC DM.EXE
+  656  ls
+  657  rm DOOM.EXE DOOM.WAD Doom\ Bible.pdf IPXSETUP.EXE MODEM.NUM MODEM.STR Manual.pdf SERSETUP.EXE SETUP.EXE dm.dat goggame-1435827232.hashdb goggame-1435827232.ico goggame-1435827232.info goggame-1435827232.script sources.list
+  658  las
+  659  ls
+  660  tree ./tmp
+  661  rm -r tmp
+  662  ls
+  663  rm -r app
+  664  rm -r __redist
+  665  rm -r __support
+  666  rm -r DOSBOX
+  667  rm -r commonappdata
+  668  ls
+  669  tree ./doom
+  670  cp --help
+  671  cp -r doom ../storage/shared/Opentouch/Delta
+  672  dd
+  673  dd --help
+  674  cd ..
+  675  ls
+  676  ping 10.0.0.30
+  677  nmap -19132 10.0.0.30
+  678  pkg install nmap
+  679  nmap -19132 10.0.0.30
+  680  nmap -h
+  681  nmap -p 19132 10.0.0.30
+  682  nmap
+  683  netstat
+  684  pwd
+  685  dir
+  686  ls
+  687  mkdir notes
+  688  cs notes
+  689  cd notes
+  690  git init
+  691  touch main
+  692  git add .
+  693  git commit -m "Initial commit"
+  694  git push origin main
+  695  git remote add main git@github.com:Crash-m/notes
+  696  git push origin main
+  697  git push main master
+  698  git push origin master
+  699  git add .
+  700  git commit -m "Initial commit"
+  701  git push -u origin master
+  702  git remote add origin git@github.com:Crash-m/notes
+  703  git push -u origin master
+  704  curl -u Crash-m https://api.github.com/crash-m/repos -d '{"name":"notes"}'
+  705  curl -u Crash-m https://api.github.com/crash-m/repos -d '{name:notes}'
+  706  curl -u Crash-m -d '{name:notes}' https://api.github.com/crash-m/repos
+  707  curl -u Crash-m -d '{"name":"notes"}' https://api.github.com/crash-m/repos
+  708  curl -u crash-m -d '{"name":"notes"}' https://api.github.com/crash-m/repos
+  709  pkg install gh
+  710  curl -u crash-m -d '{"name":"notes"}' https://api.github.com/crash-m/repos
+  711  gh auth login
+  712  curl -u crash-m -d '{"name":"notes"}' https://api.github.com/crash-m/repos
+  713  gh repo create notes
+  714  gh
+  715  gh repo create notes --push
+  716  gh repo create notes --internal
+  717  gh repo create notes --public
+  718  git push -u main master
+  719  git push -u origin main
+  720  ls
+  721  cd ..
+  722  ls
+  723  rm -r notes
+  724  gh repo create notes --public
+  725  gh repo --help
+  726  gh repo clone notes
+  727  ls
+  728  cd notes
+  729  ls
+  730  rm -r main
+  731  ls
+  732  touch file
+  733  git add .
+  734  git commit -m "just me trying to work with some note taking idea"
+  735  git push -u origin master
+  736  git push -u origin main
+  737  ls
+  738  touch file2
+  739  touch file3
+  740  history | grep "history"
+  741  history | grep ">"
